@@ -1,0 +1,10 @@
+C:\QLyKS\QLyKhachSan\bin\Debug\QLyKhachSan.exe
+C:\QLyKS\QLyKhachSan\bin\Debug\QLyKhachSan.pdb
+C:\QLyKS\QLyKhachSan\obj\Debug\QLyKhachSan.csprojAssemblyReference.cache
+C:\QLyKS\QLyKhachSan\obj\Debug\QLyKhachSan.Form1.resources
+C:\QLyKS\QLyKhachSan\obj\Debug\QLyKhachSan.Properties.Resources.resources
+C:\QLyKS\QLyKhachSan\obj\Debug\QLyKhachSan.csproj.GenerateResource.cache
+C:\QLyKS\QLyKhachSan\obj\Debug\QLyKhachSan.csproj.CoreCompileInputs.cache
+C:\QLyKS\QLyKhachSan\obj\Debug\QLyKhachSan.exe
+C:\QLyKS\QLyKhachSan\obj\Debug\QLyKhachSan.pdb
+C:\QLyKS\QLyKhachSan\obj\Debug\QLyKhachSan.FrmPhong.resources
